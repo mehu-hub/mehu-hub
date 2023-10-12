@@ -17,9 +17,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,github,git,figma,react,mui" />
 </div> -->
 <hr>
-<br>
 <h2 align="center">ACTIVITY</h2>
-<br>
+<hr>
 <div align=center>
   <img width=410 src="https://streak-stats.demolab.com/?user=mehu-hub&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mehu-hub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
