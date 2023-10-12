@@ -13,17 +13,12 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2>
+<!-- <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,github,git,figma,react,mui" />
-</div>
+</div> -->
 <br/>
-<div align="center">
-  <h2>CONTRIBUITIONS</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 <hr/>
 <h2 align="center">ACTIVITY</h2>
 <br>
