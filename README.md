@@ -1,9 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Mehedi+Hasan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mehedi+Hasan;+Frontend+developer;" />
 </h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh 🇨🇦</h3>
 <br/>
-
 <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2>
 <br/>
 <div align="center">
