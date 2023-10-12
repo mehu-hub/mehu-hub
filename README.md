@@ -15,9 +15,7 @@
 <!-- <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2> 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,github,git,figma,react,mui" />
-</div> -->
-<br/>
-<hr/>
+</div> --> 
 <h2 align="center">ACTIVITY</h2>
 <br>
 <div align=center>
