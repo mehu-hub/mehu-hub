@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mehedi+Hasan;+Frontend+Developer;" />
-</h1>
-<br/>
+</h1> 
 <div align="center"> 
   <a href="mailto:designwithmehedi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -13,8 +12,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<!-- <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2>
-<br/>
+<!-- <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2> 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,github,git,figma,react,mui" />
 </div> -->
@@ -23,11 +21,10 @@
 <h2 align="center">ACTIVITY</h2>
 <br>
 <div align=center>
-  <img width=400 src="https://streak-stats.demolab.com/?user=mehu-hub&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=450 src="https://streak-stats.demolab.com/?user=mehu-hub&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mehu-hub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
-<hr/>
-<h3 align="center">
+<!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;">
-</h3>
+</h3> -->
