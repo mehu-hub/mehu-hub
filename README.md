@@ -1,6 +1,8 @@
-
-## 🌐 Let's Connect
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.mehedihasan.offc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mehedii_hasan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedihasan-in) 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Mehedi+Hasan;" />
+</h1>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh 🇨🇦</h3>
+<br/>
 
 <h2 align="center">⚒️ TECHNOLOGY KNOW ⚒️</h2>
 <br/>
