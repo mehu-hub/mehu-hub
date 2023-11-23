@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mehedi+Hasan;+<Frontend+/+Developer>;" />  -->
-    <img src="https://i.ibb.co/8dKcFHB/Cover-2-01.jpg"/>
+<!--     <img src="https://i.ibb.co/8dKcFHB/Cover-2-01.jpg"/> -->
 </h1> 
 <div align="center"> 
   <a href="mailto:designwithmehedi@gmail.com">
